@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+button {
+  border-radius: 30px;
+}
+
+.hero { 
+background: url('../images/diet.jpg') center/cover no-repeat; 
+min-height:100vh;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin: 0 10px;
+}
